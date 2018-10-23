@@ -1,0 +1,6 @@
+﻿  Sort.cpp
+g:\软件设计师\algorithm_design\project2\project2\sort.cpp(11): warning C4101: “flag”: 未引用的局部变量
+  main.cpp
+g:\软件设计师\algorithm_design\project2\project2\main.cpp(5): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+  Project2.vcxproj -> G:\软件设计师\algorithm_design\Project2\Debug\Project2.exe
